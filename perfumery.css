@@ -126,10 +126,10 @@ h1{
         opacity:0;
     }
     .card h2{
-        top:450px;
+        top:380px;
     }
     .card button{
-        top:490px;
+        top:420px;
     }
     .card:hover h2{
         transform:translateY(-120px);
